@@ -1,5 +1,5 @@
 // Configuration
-const API_BASE_URL = 'https://github.com/TStore001/TStore001.github.io';
+const API_BASE_URL = 'https://Abodtalk.pythonanywhere.com/api';';
 let isConnected = false;
 let refreshInterval = null;
 
