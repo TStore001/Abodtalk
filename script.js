@@ -1,5 +1,5 @@
 // Configuration
-const API_BASE_URL = 'https://github.com/TStore001/TStore001.github.';
+const API_BASE_URL = 'https://github.com/TStore001/TStore001.github.io';
 let isConnected = false;
 let refreshInterval = null;
 
